@@ -1,4 +1,4 @@
-#Hangman
+# Hangman
 
 Use `git clone` to clone the project in your machine. `cd` in the folder and then run using `python3 hangman.py` on your shell. If you're using IDLE, open the file using IDLE and use `Run Module` feature.
 
